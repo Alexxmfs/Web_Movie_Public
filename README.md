@@ -11,6 +11,9 @@ API utilizada no projeto: https://www.themoviedb.org/?language=pt-BR
 Inicialmente, fiz uma pesquisa sobre as funcionalidades da API do TMDb e como integrá-la ao React. Depois disso, comecei a trabalhar no código, implementando as diferentes funcionalidades do projeto.
 
 Para tornar o projeto mais dinâmico e interessante, decidi incluir um vídeo de introdução. Não queria que o vídeo fosse o foco principal do projeto, mas sim um complemento para torná-lo mais atrativo. Para isso, escolhi um vídeo curto que se encaixasse bem com a temática de filmes.</p>
+
+<p>Para Funcionar o projeto e necesasrio você entra no site https://www.themoviedb.org/?language=pt-BR (TMDB). Criar uma conta garantir as chaves da API localizada nas configurações no site para implementar no arquivo .env na pasta raiz de server, Além disso é necessário entra no site https://www.mongodb.com/ (MongoDB) criar seu cluster que é o database. Contudo configurando todos os campos MONGODB_URL, PORT, TOKEN_SECRET, TMDB_BASE_URL, TMDB_KEY o site funcionara nromalmente.</p>
+
 <br>
 
 **Link do Projeto**
