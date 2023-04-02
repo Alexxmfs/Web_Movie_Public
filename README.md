@@ -42,6 +42,7 @@ https://cineflix-web.vercel.app/
    <img align="center" alt="Alex-NODEJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" hspace="10" />
 
    <img align="center" alt="Alex-Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" hspace="10" />
+   
+   <img align="center" alt="Alex-MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" hspace="10" />
 
   </div>
-  
