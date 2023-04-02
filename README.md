@@ -4,7 +4,7 @@
 
 API utilizada no projeto: https://www.themoviedb.org/?language=pt-BR
 
-<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Private/https/github.com/Alexxmfs/245tp1/client/public/home.PNG?token=GHSAT0AAAAAAB7STVXDDGUTRYUUIF5IREOYZBJ2A6A" />
+<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Public/master/client/public/home.PNG" />
 
 <p>Desenvolvi um projeto de filmes utilizando a API do TMDb e o framework React. Foi uma experiência incrível, pois pude colocar em prática diversos conceitos que aprendi ao longo do tempo como desenvolvedor.
 
@@ -20,9 +20,9 @@ https://cineflix-web.vercel.app/
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Private/https/github.com/Alexxmfs/245tp1/client/public/search.PNG?token=GHSAT0AAAAAAB7STVXDKO2UZHWIWKG6MDOEZBJ2BGQ" />
+<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Public/master/client/public/search.PNG" />
 
-<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Private/https/github.com/Alexxmfs/245tp1/client/public/peoples.PNG?token=GHSAT0AAAAAAB7STVXCDLHV42GHAJXOTDWUZBJ2BKQ" />
+<img src="https://raw.githubusercontent.com/Alexxmfs/Web_Movie_Public/master/client/public/peoples.PNG" />
 
 
 <h2><b>Tecnologias Utilizadas</b></h2>
